@@ -10,7 +10,7 @@ I sometimes make programs. Then I uploads them. This is the my projects, short d
 | ------------ | ------------------------------- | -------------- | ---------------------------------------- |
 |   ArduMark   | Benchmark softwares for Arduino |    LTS V1.0    | https://github.com/bockring/ArduMark.git |
 
-*I sometimes forgot change this. If you want to latest informations, please visit the "SECURITY.md".
+*I sometimes forget change this. If you want to latest informations, please visit the "SECURITY.md".
 Link : https://github.com/bockring/ArduMark?tab=security-ov-file
 
 ## My Contact Address ##

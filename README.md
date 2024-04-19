@@ -18,4 +18,4 @@ Link : https://github.com/bockring?tab=repositories&q=&type=public&language=&sor
 If you have questions or know vulnerabilities or bugs, please send my email.
 Email(Gmail) : bockring.scratcher@gmail.com
 
-or, send here the vulnerbilities or bugs : https://github.com/bockring/ArduMark/issues
+or, send here the vulnerbilities or bugs on project's "issues" tab.
